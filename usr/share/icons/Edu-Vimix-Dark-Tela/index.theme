@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Edu Vimix Dark Tela
 Comment=A simple and modern icon theme + tele icons
-Inherits=Vimix-dark,Surfn,gnome,hicolor
+Inherits=Vimix-dark,Surfn-Kiro,gnome,hicolor
 Example=folder
 
 # KDE/Plasma Stuff
